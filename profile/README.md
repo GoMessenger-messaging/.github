@@ -1,1 +1,1 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5S0YPK)
+With GoMessenger you can easily write messages to friends and family from any device. GoMessenger is a secure and private messenger written in Go to ensure maximum speed and reliability. Check out GoMessenger [here](https://gomessenger.link).
